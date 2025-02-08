@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+ACB8 - Thiên Đường Cá Cược Giải Trí Ăn Tiền Thưởng 2025
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`ACB8 <https://abc8top.info/>`_, sân chơi giải trí trực tuyến gọi tên ABC8. Đây là nhà cái đã hoạt động từ lâu, đem đến cược thủ nhiều ưu đãi, cũng như giải trí với các trò chơi hấp dẫn. Cụ thể như là: Game casino, thể thao, xổ số, bắn cá, đá gà. Tại đây, sẽ được thoải mái lựa chọn bất kỳ game nào mình thích, hơn nữa sẽ được nhận những ưu đãi rất tuyệt vời. Trải nghiệm ngay hôm nay. !
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://abc8top.info/
 
-.. note::
+SĐT: 0372363073
 
-   This project is under active development.
+Địa chỉ: Tạ Quang Bửu, Phường 5, Quận 8, Hồ Chí Minh
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+#acb8 #abc8 #acb8casino #acb8top
